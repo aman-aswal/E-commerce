@@ -42,6 +42,7 @@ open indexamazon.html
 # On Windows
 start indexamazon.html
 
+## Contributing
 Contributions are welcome! As this is my first major project, any suggestions or improvements would be greatly appreciated. Please follow these steps to contribute:
 
 Fork the repository.
@@ -50,5 +51,5 @@ Commit your changes (git commit -m 'Add your feature').
 Push to the branch (git push origin feature/your-feature).
 Create a pull request.
 
-Contact
+## Contact
 For questions or feedback, please contact me at [amanaswal42@gmail.com]
